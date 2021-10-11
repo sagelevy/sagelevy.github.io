@@ -1,5 +1,62 @@
 
 h1 {
-    font-size: 36px;
-    color: #33485e;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+}
+p {
+    font-family: 'Josefin sans', sans-serif;
+    font-weight: lighter;
+}
+em {
+    font-family: 'Josefin sans', sans-serif;
+}
+h2 {
+    font-family: 'Libre Baskerville', serif;
+}
+strong {
+    font-family: 'Josefin sans', sans-serif;
+}
+ul {
+    font-family: 'Josefin sans', sans-serif;
+}
+li {
+    font-family: 'Josefin sans', sans-serif;
+    font-weight: lighter;
+}
+ol {
+    font-family: 'Josefin sans', sans-serif;
+}
+h3 {
+    font-family: 'Josefin sans', sans-serif;
+}
+#color-palette {
+    background-color: white;
+    border-style: solid, 2px, black;
+    padding: 10px;
+    display: inline-block;
+}
+.color {
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+.color1 {
+    background-color: #ddc8f9
+    display: inline-block;
+}
+.color2 {
+    background-color: #252422
+    display: inline-block;
+}
+.color3 {
+    background-color: #f6f1d1
+    display: inline-block;
+}
+.color4 {
+    background-color: #558b6e
+    display: inline-block;
+}
+.color5 {
+    background-color: #1b998b
+    display: inline-block;
 }
