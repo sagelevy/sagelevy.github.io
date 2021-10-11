@@ -30,12 +30,12 @@ h3 {
     font-family: 'Josefin sans', sans-serif;
 }
 #color-palette {
-    background-color: white;
     border: 2px solid black;
     padding: 10px;
     display: inline-block;
 }
 .color {
+    background-color: white;
     height: 150px;
     width: 150px;
     display: inline-block;
