@@ -29,6 +29,12 @@ ol {
 h3 {
     font-family: 'Josefin sans', sans-serif;
 }
+h4 {
+    font-family: 'Josefin sans', sans-serif;
+}
+h5 {
+    font-family: 'Josefin sans', sans-serif;
+    font-weight: lighter;
 #color-palette {
     border: 2px solid black;
     padding: 10px;
