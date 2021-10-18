@@ -1,4 +1,6 @@
-
+body {
+    background-color: #ddc8f9;
+}
 h1 {
     font-family: 'Libre Baskerville', serif;
     font-weight: bold;
@@ -35,6 +37,7 @@ h4 {
 h5 {
     font-family: 'Josefin sans', sans-serif;
     font-weight: lighter;
+}
 #color-palette {
     border: 2px solid black;
     padding: 10px;
@@ -79,4 +82,21 @@ h5 {
 img {
     width: 300px;
     margin: 15px;
+}
+.banner {
+    width: 90%;
+    padding: 10px;
+    border: 10px solid #03b5aa;
+    justify-content: center;
+}
+.navbar {
+    width: 100%;
+    padding-left: 0;
+    display: flex;
+    justify-content: space-around;
+}
+.navigation ul {
+    display: inline-flex;
+    justify-content: space-around;
+
 }
