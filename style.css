@@ -183,5 +183,71 @@ img {
     max-width: 1200px;
 }
 .gallery img {
-    width: 300px;
+    width: 50%;
+}
+.column1of2 {
+    float: left;
+    width: 90%;
+    margin: 10px;
+}
+.column2of2 {
+    float: left;
+    width: 90%;
+    margin: 10px;
+}
+.contact ul {
+    display: inline-flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    width: 60%;
+}
+.contact {
+    display: flex;
+    justify-content: center;
+    background-color: #f6f1d1;
+}
+.contactbox {
+    background-color: #f6f1d1;
+}
+.contactbox h2 {
+    background-color: #03b5aa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
+.resume {
+    background-color: #f6f1d1;
+}
+.resume h2 {
+    background-color: #03b5aa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.resume p, h3, h4, h5 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.resume p {
+    padding-bottom: 10px;
+}
+.resume ul {
+    padding-bottom: 10px;
+}
+
+hr {
+    border-top: 1.5px solid #252422;
+}
+.footer {
+    background-color: #f6f1d1;
+}
+.footer p {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
